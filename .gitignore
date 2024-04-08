@@ -1,0 +1,5 @@
+**/__pycache__/**
+models/
+runs/
+.idea/
+.ipynb_checkpoints/
